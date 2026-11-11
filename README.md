@@ -61,5 +61,4 @@ python main.py
 ## 7. Conclusion
 
 Ce projet permet de mettre en pratique les concepts fondamentaux de la cryptographie symétrique à travers l'algorithme AES-128. Il associe l'étude théorique de l'algorithme à une réalisation pratique en Python.
-
-**Projet universitaire – AES-128**
+Projet personnel – Conception et réalisation d'une application de chiffrement et déchiffrement basée sur AES-128. »
