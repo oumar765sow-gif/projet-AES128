@@ -64,4 +64,4 @@ Ce projet permet de mettre en pratique les concepts fondamentaux de la cryptogra
 Projet personnel – Conception et réalisation d'une application de chiffrement et déchiffrement basée sur AES-128. »
 ## 8. Aperçu de l'application
 
-![Interface de l'application AES-128](interface-aes128.png)
+![Interface de l'application AES-128](Capture.PNG)
